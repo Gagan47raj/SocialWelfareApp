@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487633127051",
+    "project_id": "socialwelfareapp-1037d",
+    "storage_bucket": "socialwelfareapp-1037d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487633127051:android:7e2f5efd92f116303db68e",
+        "android_client_info": {
+          "package_name": "com.example.socialwelfareapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDve0TswNphSFAcP04m6wxtvdk3y_QnfdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
